@@ -1,0 +1,65 @@
+{
+    "user": {
+        "password": "$2b$12$g5pK15cTZZXbavXs1ec0Xu/tXr/uwDqi2dhC8ancK/RXnyxLtMTdy",
+        "email": "berkayuymaz0@gmail.com",
+        "role": "admin",
+        "otp": null,
+        "session_token": "3833fb1da39fe0ad619e5d136e28a661",
+        "expiry": 1717570376,
+        "profile": {},
+        "activity_log": [
+            {
+                "action": "signup",
+                "timestamp": "2024-06-05 05:48:13"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:48:25"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:48:26"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:48:27"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:48:28"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:50:27"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:52:49"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:57:50"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 05:58:21"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 06:00:08"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 06:00:33"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 06:00:46"
+            },
+            {
+                "action": "login",
+                "timestamp": "2024-06-05 06:12:26"
+            }
+        ]
+    }
+}

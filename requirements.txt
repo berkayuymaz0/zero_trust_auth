@@ -1,0 +1,8 @@
+streamlit
+flask
+flask-limiter
+flask-cors
+flask-wtf
+bcrypt
+requests
+pytest
