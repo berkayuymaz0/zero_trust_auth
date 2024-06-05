@@ -1,6 +1,3 @@
-Sure! Here is a comprehensive README file for your project.
-
----
 
 # Zero Trust Authentication System
 

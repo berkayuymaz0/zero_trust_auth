@@ -61,5 +61,15 @@
                 "timestamp": "2024-06-05 06:12:26"
             }
         ]
+    },
+    "berkay": {
+        "password": "$2b$12$qR7AWj4bSIh30dIdDsYZNuN/H8iX5NMcqMUQvI0MndKcH7Et3rc4G",
+        "email": "berkayuymaz0@gmail.com",
+        "role": "user",
+        "otp": null,
+        "session_token": null,
+        "expiry": null,
+        "profile": {},
+        "activity_log": []
     }
 }
